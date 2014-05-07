@@ -14,6 +14,10 @@ where whole process lock is possible.
 NOTE: If you need it for continuously working service or website, please refer 
 to queues and schedulers based solutions.
 
+Installation
+------------
+```pip install https://github.com/vladignatyev/limiter/archive/v0.1.tar.gz```
+
 Usage
 -----
 Limitation per second. In the example below we emulate querying service 
